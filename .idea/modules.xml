@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cashregister-spring-xml-config/cashregister.iml" filepath="$PROJECT_DIR$/cashregister-spring-xml-config/cashregister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashregister-spring-annotation-config/cashregister (1) (ku.annotation).iml" filepath="$PROJECT_DIR$/cashregister-spring-annotation-config/cashregister (1) (ku.annotation).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashregister-spring-java-config/cashregister (1) (ku.javaconfig).iml" filepath="$PROJECT_DIR$/cashregister-spring-java-config/cashregister (1) (ku.javaconfig).iml" />
+    </modules>
+  </component>
+</project>
